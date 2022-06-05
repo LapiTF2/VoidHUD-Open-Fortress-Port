@@ -74,7 +74,7 @@
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
 		"font"			"sans14"
-		"xpos"			"8"
+		"xpos"			"50"
 		"ypos"			"10"
 		"zpos"			"1"
 		"wide"			"640"
