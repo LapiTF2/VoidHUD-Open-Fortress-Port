@@ -4,6 +4,8 @@ VoidHUD was originally created by StaticVoid.
 
 If you're using Linux, make the folder name all lowercase. Or else it won't work.
 
+Interested in other TF2 Sourcemod HUDs? (Open Fortress, Team Fortress Classic, etc) Then join this Discord server! https://discord.gg/DRSZHm2NgX
+
 Original README:
 
 VoidHUD2.0
