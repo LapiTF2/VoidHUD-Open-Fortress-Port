@@ -43,8 +43,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/score_panel_blue_bg"
-		"image_lodef"	"../hud/score_panel_blue_bg_lodef"
+		//"image"			"../hud/score_panel_blue_bg"
+		//"image_lodef"	"../hud/score_panel_blue_bg_lodef"
 		"scaleImage"		"1"
 	}
 	"RedScoreBG"
@@ -63,8 +63,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/score_panel_red_bg"
-		"image_lodef"	"../hud/score_panel_red_bg_lodef"
+		//"image"			"../hud/score_panel_red_bg"
+		//"image_lodef"	"../hud/score_panel_red_bg_lodef"
 		"scaleImage"		"1"
 	}
 	"MainBG"
@@ -83,8 +83,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/score_panel_black_bg"
-		"image_lodef"	"../hud/score_panel_black_bg_lodef"
+		//"image"			"../hud/score_panel_black_bg"
+		//"image_lodef"	"../hud/score_panel_black_bg_lodef"
 		"scaleImage"		"1"
 	}							
 	"BlueTeamLabel"
@@ -327,27 +327,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-	"ShadedBar"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"ShadedBar"
-		"xpos"			"10"
-		"xpos_hidef"	"30"
-		"ypos"			"342"	[$WIN32]
-		"ypos"			"297"	[$X360]
-		"zpos"			"2"
-		"wide"			"580"
-		"wide_lodef"	"539"
-		"wide_hidef"	"559"
-		"tall"			"70"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
-		"fillcolor"		"0 0 0 153"
-		"PaintBackgroundType"	"0"
-	}	
 	"ClassImage"
 	{
 		"ControlName"		"ImagePanel"
