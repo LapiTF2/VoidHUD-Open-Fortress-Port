@@ -215,47 +215,6 @@
 		"tall"		"40"
 		"TextFont"	"Default"	[$X360]
 	}
-
-	CMainTargetID
-	{
-		"fieldName" 	"CMainTargetID"
-		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"250"
-		"wide"	 	"252"
-		"tall"	 	"50"
-		"tall_minmode"	 	"31"
-		"priority"	"40"
-		"priority_lodef"	"5"
-	}
-	
-	CSpectatorTargetID
-	{
-		"fieldName" 	"CSpectatorTargetID"
-		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"250"
-		"wide"	 	"252"
-		"tall"	 	"50"
-		"tall_minmode"	 	"31"
-		"priority"	"40"
-		"priority_lodef" "35"
-	}
-	
-	CSecondaryTargetID
-	{
-		"fieldName" 	"CSecondaryTargetID"
-		"visible" 	"0"
-		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"300"
-		"wide"	 	"252"
-		"tall"	 	"50"
-		"tall_minmode"	 	"31"
-		"priority"	"35"
-	}
 	
 	BuildingStatus_Spy
 	{
