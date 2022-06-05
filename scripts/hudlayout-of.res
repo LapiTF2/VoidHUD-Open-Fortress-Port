@@ -1054,5 +1054,16 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
+	HudLungeMeter
+	{
+		"fieldName"        "HudLungeMeter"
+		"visible"        "1"
+		"enabled"        "1"
+		"xpos"            "cs-0.5"
+		"ypos"            "cs-0.5"
+		"wide"            "f0"
+		"tall"            "f0"
+		"MeterFG"        "White"
+		"MeterBG"        "Gray" 
 	}
 }
