@@ -2,8 +2,6 @@ A port of VoidHUD to Open Fortress by Lapi and quickkennedy.
 Minor modifications were made to the HUD. However, it is still faithful to the original.
 VoidHUD was originally created by StaticVoid.
 
-If you're using Linux, make the folder name all lowercase. Or else it won't work.
-
 Interested in other TF2 Sourcemod HUDs? (Open Fortress, Team Fortress Classic, etc) Then join this Discord server! https://discord.gg/DRSZHm2NgX
 
 Original README:
