@@ -1,2 +1,3 @@
-#base    "clientscheme-of.res"
+#base    "../customization/enabled/altoverheal.res"
 #base    "clientscheme-void.res"
+#base    "clientscheme-of.res"
