@@ -358,13 +358,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"image"			"../hud/color_panel_blu"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
-
+		"border"		"TFFatLineBorderBlueBG"
 	}
 	
 	"redframe"
@@ -381,12 +375,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"image"			"../hud/color_panel_red"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
+		"border"		"TFFatLineBorderRedBG"
 	}	
 	
 	"BlueLabel"
@@ -444,12 +433,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"image"			"../hud/color_panel_brown"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
+		"border"		"TFFatLineBorder"
 	}		
 	
 	"SpectateFrame"
@@ -466,12 +450,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"image"			"../hud/color_panel_brown"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"
-		"draw_corner_height" 	"3"	
+		"border"		"TFFatLineBorder"
 		
 	}			
 	
