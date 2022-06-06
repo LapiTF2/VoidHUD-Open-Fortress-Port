@@ -6121,5 +6121,10 @@ Scheme
             "font" "resource/fonts/sansation_bold.ttf"
             "name" "Sansation"
         }
+        "69"
+        {
+            "font" "resource/fonts/verdana.ttf"
+            "name" "Verdana"
+        }
 	}
 }
