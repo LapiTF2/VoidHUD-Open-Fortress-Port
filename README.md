@@ -1,4 +1,4 @@
-A port of VoidHUD to Open Fortress by Lapi and quickkennedy.
+A port of VoidHUD Classic to Open Fortress by Lapi and quickkennedy.
 Minor modifications were made to the HUD. However, it is still faithful to the original.
 VoidHUD was originally created by StaticVoid.
 
