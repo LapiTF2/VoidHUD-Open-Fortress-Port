@@ -214,7 +214,7 @@ Scheme
 		"voidHPwhite"                "215 215 215 255"
         "voidHPlightgray"                  "100 100 100 255"
 		"voidHPgray"              "25 25 25 255"
-		"voidHPbuff"                "164 234 249 255"
+		"voidHPbuff"                "90 255 75 255"
         "voidHPbuff2"               "164 234 249 255"
 		"voidHPlow"                 "195 0 0 255"
         "voidDMGcolor"              "250 255 115 255"
